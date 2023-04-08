@@ -1,10 +1,12 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Adam Duval</title>
-        <link>http://adamduval.com/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>adam@adamduval.com (Adam Duval)</managingEditor>
-            <webMaster>adam@adamduval.com (Adam Duval)</webMaster>
-            <atom:link href="http://adamduval.com/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam Duval</title>
+    <link>http://adamduval.com/</link>
+    <description>Recent content on Adam Duval</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>adam@adamduval.com (Adam Duval)</managingEditor>
+    <webMaster>adam@adamduval.com (Adam Duval)</webMaster><atom:link href="http://adamduval.com/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>
