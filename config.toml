@@ -48,13 +48,14 @@ enableEmoji = true
 [params.home]
   [params.home.profile]
   enable = true
-  title = 'Adam Duval' #TODO
-  subtitle = 'Python / Data / SQL / Tableau / GIS' #TODO
+  title = '' #TODO
+  subtitle = 'Hi, my name is Adam. <br> <br> I am a <span style="font-weight:bold;color:orange">Python</span> developer <br> who focuses on developing <br> <span style="font-weight:bold;color:orange">Data</span> products using <br> <span style="font-weight:bold;color:orange">SQL</span>, <span style="font-weight:bold;color:orange">Tableau</span> and <span style="font-weight:bold;color:orange">GIS</span>'
   typeit = false
+  # avatarURL = "/images/profile-pic.png"
 
 [params.header]
   [params.header.title]
-    name = '' #TODO
+    name = 'Adam Duval' #TODO
 
 [params.social]
   Linkedin = 'adamduval'
