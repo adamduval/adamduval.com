@@ -1,3 +1,71 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://adamduval.com/'
+
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+
+languageName = 'English'
+
+title = 'Adam Duval'
+
+theme = 'LoveIt'
+
+paginate = 12
+
+enableRobotsTXT = true
+
+enableEmoji = true
+
+[author]
+  name = 'Adam Duval'
+  email = 'adam@adamduval.com'
+  link = 'www.adamduval.com'
+
+[menu]
+#  [[menu.main]]
+#    weight = 1
+#    identifier = 'posts'
+#    name = 'Posts'
+#    url = '/posts/'
+#  [[menu.main]]
+#    weight = 2
+#    identifier = 'tags'
+#    name = 'Tags'
+#    url = '/tags/'
+#  [[menu.main]]
+#    weight = 3
+#    identifier = 'categories'
+#    name = 'Categories'
+#    url = '/categories/'
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+
+[params]
+    defaultTheme ='auto'
+    title = 'Adam Duval' #TODO
+    descriptions = 'test' #TODO
+
+[params.home]
+  [params.home.profile]
+  enable = true
+  title = 'Adam Duval' #TODO
+  subtitle = 'Python / Data / SQL / Tableau / GIS' #TODO
+  typeit = false
+
+[params.header]
+  [params.header.title]
+    name = '' #TODO
+
+[params.social]
+  Linkedin = 'linkedin.com/in/adamduval'
+  Github = 'https://github.com/adamduval'
+  email = 'adam@adamduval.com'
+
+[params.page.share]
+  enable = false #TODO
+
+[params.page.comment]
+      enable = false
+
+[params.app]
+  title = 'my site' #TODO
