@@ -60,6 +60,7 @@ enableEmoji = true
   Linkedin = 'linkedin.com/in/adamduval'
   Github = 'https://github.com/adamduval'
   email = 'adam@adamduval.com'
+  rss = false
 
 [params.page.share]
   enable = false #TODO
