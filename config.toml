@@ -41,7 +41,7 @@ enableEmoji = true
     noClasses = false
 
 [params]
-    defaultTheme ='auto'
+    defaultTheme ='dark'
     title = 'Adam Duval' #TODO
     descriptions = 'test' #TODO
 
