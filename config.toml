@@ -54,6 +54,7 @@ enableEmoji = true
   # avatarURL = "/images/profile-pic.png"
 
 [params.header]
+  desktopMode = 'fixed'
   [params.header.title]
     name = 'Adam Duval' #TODO
 
