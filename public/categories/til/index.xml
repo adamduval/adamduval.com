@@ -5,12 +5,14 @@
         <description>TIL - Category - Adam Duval</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>adam@adamduval.com (Adam Duval)</managingEditor>
             <webMaster>adam@adamduval.com (Adam Duval)</webMaster><lastBuildDate>Mon, 10 Apr 2023 09:01:05 &#43;0000</lastBuildDate><atom:link href="http://adamduval.com/categories/til/" rel="self" type="application/rss+xml" /><item>
-    <title>Today I Learned ...Making a profile blog using Hugo, GitHub Pages and GitHub Actions.</title>
+    <title>TIL - 2023-04-10 // Chaining Bash Commands Sequentially</title>
     <link>http://adamduval.com/posts/til-20230409/</link>
     <pubDate>Mon, 10 Apr 2023 09:01:05 &#43;0000</pubDate>
     <author>Adam Duval</author>
     <guid>http://adamduval.com/posts/til-20230409/</guid>
-    <description><![CDATA[1.1 test 1.2 test 2.2 test ]]></description>
+    <description><![CDATA[The &amp;&amp; operator can be used to chain commands in the bash command line. The command sequence will only execute if the previous command completed successfully.
+Practical Example usage: Switch to a directory and list its contents.
+cd dir &amp;&amp; ls ]]></description>
 </item>
 </channel>
 </rss>
