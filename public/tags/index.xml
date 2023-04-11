@@ -5,27 +5,11 @@
         <description>Tags - Tag - Adam Duval</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>adam@adamduval.com (Adam Duval)</managingEditor>
             <webMaster>adam@adamduval.com (Adam Duval)</webMaster><lastBuildDate>Mon, 10 Apr 2023 09:01:05 &#43;0000</lastBuildDate><atom:link href="http://adamduval.com/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>Github Actions</title>
-    <link>http://adamduval.com/tags/github-actions/</link>
+    <title>Bash</title>
+    <link>http://adamduval.com/tags/bash/</link>
     <pubDate>Mon, 10 Apr 2023 09:01:05 &#43;0000</pubDate>
     <author>Adam Duval</author>
-    <guid>http://adamduval.com/tags/github-actions/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Github Pages</title>
-    <link>http://adamduval.com/tags/github-pages/</link>
-    <pubDate>Mon, 10 Apr 2023 09:01:05 &#43;0000</pubDate>
-    <author>Adam Duval</author>
-    <guid>http://adamduval.com/tags/github-pages/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Hugo</title>
-    <link>http://adamduval.com/tags/hugo/</link>
-    <pubDate>Mon, 10 Apr 2023 09:01:05 &#43;0000</pubDate>
-    <author>Adam Duval</author>
-    <guid>http://adamduval.com/tags/hugo/</guid>
+    <guid>http://adamduval.com/tags/bash/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
