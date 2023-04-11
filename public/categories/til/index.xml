@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>TIL - Category - Adam Duval</title>
+        <link>http://adamduval.com/categories/til/</link>
+        <description>TIL - Category - Adam Duval</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>adam@adamduval.com (Adam Duval)</managingEditor>
+            <webMaster>adam@adamduval.com (Adam Duval)</webMaster><lastBuildDate>Mon, 10 Apr 2023 09:01:05 &#43;0000</lastBuildDate><atom:link href="http://adamduval.com/categories/til/" rel="self" type="application/rss+xml" /><item>
+    <title>Today I Learned ...Making a profile blog using Hugo, GitHub Pages and GitHub Actions.</title>
+    <link>http://adamduval.com/posts/til-20230409/</link>
+    <pubDate>Mon, 10 Apr 2023 09:01:05 &#43;0000</pubDate>
+    <author>Adam Duval</author>
+    <guid>http://adamduval.com/posts/til-20230409/</guid>
+    <description><![CDATA[1.1 test 1.2 test 2.2 test ]]></description>
+</item>
+</channel>
+</rss>

@@ -1,12 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Adam Duval</title>
-    <link>http://adamduval.com/tags/</link>
-    <description>Recent content in Tags on Adam Duval</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>adam@adamduval.com (Adam Duval)</managingEditor>
-    <webMaster>adam@adamduval.com (Adam Duval)</webMaster><atom:link href="http://adamduval.com/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Adam Duval</title>
+        <link>http://adamduval.com/tags/</link>
+        <description>Tags - Tag - Adam Duval</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>adam@adamduval.com (Adam Duval)</managingEditor>
+            <webMaster>adam@adamduval.com (Adam Duval)</webMaster><lastBuildDate>Mon, 10 Apr 2023 09:01:05 &#43;0000</lastBuildDate><atom:link href="http://adamduval.com/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Github Actions</title>
+    <link>http://adamduval.com/tags/github-actions/</link>
+    <pubDate>Mon, 10 Apr 2023 09:01:05 &#43;0000</pubDate>
+    <author>Adam Duval</author>
+    <guid>http://adamduval.com/tags/github-actions/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Github Pages</title>
+    <link>http://adamduval.com/tags/github-pages/</link>
+    <pubDate>Mon, 10 Apr 2023 09:01:05 &#43;0000</pubDate>
+    <author>Adam Duval</author>
+    <guid>http://adamduval.com/tags/github-pages/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Hugo</title>
+    <link>http://adamduval.com/tags/hugo/</link>
+    <pubDate>Mon, 10 Apr 2023 09:01:05 &#43;0000</pubDate>
+    <author>Adam Duval</author>
+    <guid>http://adamduval.com/tags/hugo/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

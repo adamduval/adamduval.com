@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Adam Duval</title>
-    <link>http://adamduval.com/categories/</link>
-    <description>Recent content in Categories on Adam Duval</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>adam@adamduval.com (Adam Duval)</managingEditor>
-    <webMaster>adam@adamduval.com (Adam Duval)</webMaster><atom:link href="http://adamduval.com/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Adam Duval</title>
+        <link>http://adamduval.com/categories/</link>
+        <description>Categories - Category - Adam Duval</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>adam@adamduval.com (Adam Duval)</managingEditor>
+            <webMaster>adam@adamduval.com (Adam Duval)</webMaster><lastBuildDate>Mon, 10 Apr 2023 09:01:05 &#43;0000</lastBuildDate><atom:link href="http://adamduval.com/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>TIL</title>
+    <link>http://adamduval.com/categories/til/</link>
+    <pubDate>Mon, 10 Apr 2023 09:01:05 &#43;0000</pubDate>
+    <author>Adam Duval</author>
+    <guid>http://adamduval.com/categories/til/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
